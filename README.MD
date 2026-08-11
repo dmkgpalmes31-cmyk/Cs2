@@ -1,7 +1,7 @@
 # Calculating Distance Between Two Points Using Math and I/O Libraries
 
 ## Description
-This program calculates the distance between two points using the distance formukla
+This program calculates the distance between two points using the distance formula
 
 ## How to Run
 1. Open the program.
