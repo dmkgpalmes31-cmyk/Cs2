@@ -9,11 +9,13 @@ Explain what your program does.
 3. Enter the required values.
 
 ## Input Needed
-- List the values the user needs to enter.
-
+- X1 
+- Y1
+- X2
+- Y2
 ## Sample Output
 Show an example of the program's output.
 
 ## Author
-Name: Darwin Matt Hendrix G. Palmes
-Section: Acacia
+- Name: Darwin Matt Hendrix G. Palmes
+- Section: Acacia
