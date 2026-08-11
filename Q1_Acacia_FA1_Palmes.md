@@ -1,4 +1,4 @@
-import math
+import math # to make functions exclusive to the math library work
 
 X1 = float(input("Enter coordinate X:"))
 Y1 = float(input("Enter coordinate Y:"))
